@@ -1,0 +1,21 @@
+.request {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: solid 1px var(--blue);
+  border-radius: 3em;
+  padding-top: 1.05em;
+  padding-bottom: 0.95em;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: transparent;
+  transition-property: background-color;
+  transition-duration: 250ms;
+  transition-timing-function: ease-out;
+  color: var(--blue);
+  font-weight: 500;
+  cursor: pointer;
+}
+.request:hover {
+  background-color: var(--blue);
+  color: #e0e0e0;
+}
