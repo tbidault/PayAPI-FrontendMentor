@@ -14,5 +14,5 @@ Il s'agit de l'interface d'un site marketing contenant 4 pages.
 
 ## Liens
 
-Énoncé: https://www.frontendmentor.io/challenges/payapi-multipage-website-FDLR1Y11e
-Solution: https://frontendmentor-payapi.netlify.app/
+- Énoncé: https://www.frontendmentor.io/challenges/payapi-multipage-website-FDLR1Y11e
+- Solution: https://frontendmentor-payapi.netlify.app/
