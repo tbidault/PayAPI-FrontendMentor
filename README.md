@@ -1,5 +1,4 @@
 # PayAPI multi-page website
-
 Réalisation d'un challenge Frontend Mentor dont l'objectif est de développer un site similaire au design présenté sur des maquettes s'adaptant à la taille de l'écran utilisé.
 Il s'agit de l'interface d'un site marketing contenant 4 pages.
 
@@ -15,4 +14,6 @@ Il s'agit de l'interface d'un site marketing contenant 4 pages.
 ## Liens
 
 - Énoncé: https://www.frontendmentor.io/challenges/payapi-multipage-website-FDLR1Y11e
-- Solution: https://frontendmentor-payapi.netlify.app/
+- Solution: https://tbidault-frontendmentor-payapi.netlify.app/
+
+![Image text](/screenshot.png)
